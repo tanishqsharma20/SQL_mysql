@@ -3,5 +3,5 @@ this is my notes
 SQL practice
 
 
-##I HAVE STARTED SOLVING
+##I HAVE STARTED SOLVING HACKER RANK
 
